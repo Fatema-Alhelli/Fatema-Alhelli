@@ -28,10 +28,9 @@ Interested in data analysis, visualization, business reporting, and digital mark
 
 ## 📜 Certifications
 
+- Future Leaders Development Program Certificate — 2026
 - PL-300: Microsoft Power BI Data Analyst — Microsoft, 2024
 - Essentials of Career Development — 2024
-- Future Leaders Development Program Certificate — 2026
-
 
   
 <!--
